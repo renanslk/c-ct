@@ -1,6 +1,5 @@
 #include <iostream>
 #include <time.h>
-#include <cstdio>
 
 using namespace std;
 
