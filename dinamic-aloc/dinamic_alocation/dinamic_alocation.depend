@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719097196 source:d:\data\repos\c-ct\dinamic-aloc\dinamic_alocation\main.cpp
+	<iostream>
+	<time.h>
+
